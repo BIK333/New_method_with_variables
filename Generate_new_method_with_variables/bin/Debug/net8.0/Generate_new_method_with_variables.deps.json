@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Generate_new_method_with_variables/1.0.0": {
+        "runtime": {
+          "Generate_new_method_with_variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate_new_method_with_variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
